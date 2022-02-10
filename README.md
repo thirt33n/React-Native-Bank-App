@@ -23,8 +23,8 @@ You will be greeted with the image shown above as you enter
 Clicking on the '?' icon randomly increases or decreases your account balance while triggering the Activity Indicator on the top.
 <span>
 <p align='center'>
-<img src='./assets/Decrease.png' width=259 height=518.33 margin-right=10>
-<img src='./assets/Increase.png' width=259 height=518.33>
+<img src='./assets/Decrease.png' width=259 height=518.33>
+<img src='./assets/increase.png' width=259 height=518.33>
 <img src='./assets/activityIndicator.png' width=259 height=518.33>
 </p>
 </span>
