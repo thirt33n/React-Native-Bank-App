@@ -76,6 +76,7 @@ export default function NavBar(){
                         </View>
                     </Pressable>
 
+
                 </View>
         </Modal>
 
