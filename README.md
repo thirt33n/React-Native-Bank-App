@@ -9,7 +9,7 @@
 <br />
 
 ## Intro
-This is an attempt at a bank app UI clone made using React-native and has almost all features you would expect from an app made for a bank.
+This is an attempt at a bank app UI clone made using React-native and has almost all features you would expect from an app made for a bank.This Design was inspired by [this dribble](https://dribbble.com/shots/15247790-Finance-App)
 
 
 ## Features
